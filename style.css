@@ -1,8 +1,37 @@
 body {
-  background-color: lightblue
+  background-color: lightgreen
+   
 }
 h1 {
   font-size: 30px;
   font-family: Helvetica;
-  }
+ }
 
+.exp-header {
+  text-transform: uppercase;
+}
+
+.ed-header {
+  text-transform: uppercase;
+}
+
+.work-header{
+  text-transform: uppercase;
+}
+
+.student-header {
+  text-transform: uppercase
+}
+
+.hennepin-header{
+  text-transform: uppercase 
+  
+}
+
+.brea-header {
+  text-transform: uppercase
+}
+
+.tech-header{
+  text-transform: uppercase
+}
