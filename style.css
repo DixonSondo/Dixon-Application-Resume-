@@ -1,6 +1,9 @@
 body {
-  background-color:tan
+  background-color:bc7 
 }
+
+
+
 h1 {
   font-size: 30px;
   font-family: Helvetica;
@@ -9,8 +12,17 @@ h1 {
 
 
 hr {
-     background-color:black
-     
+     background-color: black
+ 
+   
+
 }
   
+H{
+ color: blue
+}
+
+title {
+  height: 39%;
+}
 
